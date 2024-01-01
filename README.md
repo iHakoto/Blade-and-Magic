@@ -1,4 +1,4 @@
-# Blade-and-Magic-ZIP
+# Blade-and-Magic
 Compressed repositories. WARNING! Chat GPT ahh readme format.
 
 ## Notes
